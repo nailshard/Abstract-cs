@@ -3,6 +3,7 @@ return {
 
 	fg                   = "#FFFADE",
 	bg                   = "#060606",
+	-- bg                   = "#232323",
 
 	dark                 = "#252525",
 	popup_back           = "#2D2D30",
@@ -42,6 +43,7 @@ return {
 
 	black3				 = "#0F0F0F",
 	black2        		 = "#141414",
+	black4        		 = "#1f1f1f",
 	black1        		 = "#090909",
 	black         		 = "#000000",
 
